@@ -31,7 +31,7 @@
   <a href="https://instagram.com/renatomocano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mocanoplays" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/renatoalmdev/renatoalmdev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RenatoAlmDev/RenatoAlmDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
