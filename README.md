@@ -61,3 +61,10 @@
 
 </div>
 
+<div style="display: inline_block">
+  - Tenho curiosidade em estudar:
+   <img align="center" alt="Renato-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+   <img align="center" alt="Renato-Docker" height="30" width="40" src="https://img.icons8.com/color/344/amazon-web-services.png" />
+             
+</div>
+
