@@ -1,7 +1,7 @@
 ## Olá, sou o Renato Almeida, bem vindo ao meu GitHub!
 
 - 🔭 Atualmente procurando vagas para Front-End / Looking for jobs at Front-End
-- 🎓 Focando em estudos Back-End para aprimorar o currículo / Focus at Back-End to level up my knowledge
+- 🎓 Focando em estudos Back-End para aprimorar o conhecimento / Focus at Back-End to level up my knowledge
 ##
 
 <div align="center">
