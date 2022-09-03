@@ -41,23 +41,24 @@
 <div style="text-decoration:none">
 - Nível de conhecimento:
 
-- HTML:       🟦🟦🟦⬜⬜
-- CSS:        🟦🟦🟦⬜⬜
+- HTML:       🟦🟦🟦🟦⬜
+- CSS:        🟦🟦🟦🟦⬜
 - JavaScript: 🟦🟦🟦⬜⬜
 - React:      🟦🟦🟦⬜⬜
+- TypeScript: 🟦🟦🟦⬜⬜
+- NodeJS:     🟦🟦⬜⬜⬜
+- MongoDB:    🟦🟦⬜⬜⬜
+- Sass:       🟦🟦🟦⬜⬜
+
 
 ##
 
 - 🎓 Estudos atuais:
-- NodeJS:     🟦🟦⬜⬜⬜
-- MongoDB:    🟦⬜⬜⬜⬜
+- BootStrap:  ⬜⬜⬜⬜⬜
 
 ##
 
 - 🎓 Próximos Estudos:
-- TypeScript: 🟦⬜⬜⬜⬜
-- Sass:       ⬜⬜⬜⬜⬜
-- BootStrap:  ⬜⬜⬜⬜⬜
 
 </div>
 
