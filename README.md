@@ -59,6 +59,7 @@
 ##
 
 - 🎓 Próximos Estudos:
+- SQL no NodeJS:  ⬜⬜⬜⬜⬜
 
 </div>
 
