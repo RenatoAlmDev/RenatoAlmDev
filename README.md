@@ -54,12 +54,13 @@
 ##
 
 - 🎓 Estudos atuais:
-- BootStrap:  ⬜⬜⬜⬜⬜
+- BootStrap:  🟦🟦🟦⬜⬜
 
 ##
 
 - 🎓 Próximos Estudos:
 - SQL no NodeJS:  ⬜⬜⬜⬜⬜
+- Ruby:           ⬜⬜⬜⬜⬜ (Para bootcamp da OneBit Code)
 
 </div>
 
