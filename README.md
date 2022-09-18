@@ -49,18 +49,18 @@
 - NodeJS:     🟦🟦⬜⬜⬜
 - MongoDB:    🟦🟦⬜⬜⬜
 - Sass:       🟦🟦🟦⬜⬜
+- BootStrap:  🟦🟦🟦⬜⬜
 
 
 ##
 
 - 🎓 Estudos atuais:
-- BootStrap:  🟦🟦🟦⬜⬜
+- SQL no NodeJS:  ⬜⬜⬜⬜⬜
 
 ##
 
 - 🎓 Próximos Estudos:
-- SQL no NodeJS:  ⬜⬜⬜⬜⬜
-- Ruby:           ⬜⬜⬜⬜⬜ (Para bootcamp da OneBit Code)
+- Ruby:  ⬜⬜⬜⬜⬜ (Para bootcamp da OneBit Code)
 
 </div>
 
