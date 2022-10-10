@@ -55,12 +55,12 @@
 ##
 
 - 🎓 Estudos atuais:
-- SQL no NodeJS:  ⬜⬜⬜⬜⬜
+- Ruby:  ⬜⬜⬜⬜⬜ (Para bootcamp da OneBit Code)
 
 ##
 
 - 🎓 Próximos Estudos:
-- Ruby:  ⬜⬜⬜⬜⬜ (Para bootcamp da OneBit Code)
+- SQL no NodeJS:  ⬜⬜⬜⬜⬜
 
 </div>
 
