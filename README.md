@@ -55,7 +55,7 @@
 ##
 
 - 🎓 Estudos atuais:
-- Ruby:  ⬜⬜⬜⬜⬜ (Para bootcamp da OneBit Code)
+- Ruby:  🟦⬜⬜⬜⬜ (Para bootcamp da OneBit Code)
 
 ##
 
